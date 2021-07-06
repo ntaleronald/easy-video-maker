@@ -1,11 +1,8 @@
 
 Audio To Slideshow 
 =======
-![GitHub](https://img.shields.io/github/license/yarkhinephyo/audio_to_slideshow?style=flat-square)
 
 Automatically converts :speech_balloon: speech in an audio file into a :video_camera: video with accompanying relevant images.
-
-Medium: https://medium.com/@yarkhinephyo/hey-python-make-me-a-video-e7be78590b8d
 
 ## Usage
 Ensure you have subscribed to IBM Watson's Speech to Text service and Flickr API.
@@ -43,11 +40,4 @@ mkdir input output
 
 pipenv run python main.py
 ```
-## Sample Output Video
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/j8BddvXT9d0/0.jpg)](http://www.youtube.com/watch?v=j8BddvXT9d0 "Sample Output Video")
 
-## Acknowledgements
-
-- Inspired by youtuber Carykh.
-- Flickr scraper by Ultralytics LLC.
-- Text to speech API by IBM
